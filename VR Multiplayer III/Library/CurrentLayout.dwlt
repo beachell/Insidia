@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 887, y: 492}
   m_MaxSize: {x: 16012, y: 14042}
   vertical: 0
-  controlID: 11
+  controlID: 55
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -236,7 +236,7 @@ MonoBehaviour:
   m_MinSize: {x: 610, y: 492}
   m_MaxSize: {x: 12010, y: 14042}
   vertical: 1
-  controlID: 12
+  controlID: 56
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -261,7 +261,7 @@ MonoBehaviour:
   m_MinSize: {x: 610, y: 221}
   m_MaxSize: {x: 12010, y: 4021}
   vertical: 0
-  controlID: 13
+  controlID: 57
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -280,8 +280,8 @@ MonoBehaviour:
     y: 0
     width: 534
     height: 457
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -424,19 +424,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Scripts/Jake
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scripts/Jake
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Insidia\Insidia\VR Multiplayer III
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 95}
-    m_SelectedIDs: 5c6b0000
-    m_LastClickedID: 27484
-    m_ExpandedIDs: 000000005c6b0000386c0000be6c0000dc6d0000f06d000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 155}
+    m_SelectedIDs: 663d0000
+    m_LastClickedID: 15718
+    m_ExpandedIDs: 00000000d2360000de3b00008a3d0000da4500001a49000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -464,7 +464,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005c6b0000386c0000be6c0000dc6d0000f06d0000
+    m_ExpandedIDs: 00000000d2360000de3b00008a3d0000da4500001a490000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -579,24 +579,24 @@ MonoBehaviour:
     width: 200
     height: 436
   m_TreeViewState:
-    scrollPos: {x: 0, y: 32}
-    m_SelectedIDs: a081fdff
-    m_LastClickedID: -163424
-    m_ExpandedIDs: dc88fdff00000000606e0000
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: cc550000
+    m_LastClickedID: 21964
+    m_ExpandedIDs: 5a8affff5c8affff9891ffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: '[CameraRig]'
+      m_OriginalName: '[CameraRig]'
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 21628
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
@@ -632,14 +632,14 @@ MonoBehaviour:
     width: 530
     height: 436
   m_SceneLighting: 0
-  lastFramingTime: 166647.98685686968
+  lastFramingTime: 99.49063649515041
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -120.70278, y: -6.480533, z: 83.74477}
+    m_Target: {x: 8.108553, y: 56.404175, z: 64.4573}
     speed: 2
-    m_Value: {x: -120.70278, y: -6.480533, z: 83.74477}
+    m_Value: {x: 8.108553, y: 56.404175, z: 64.4573}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -662,13 +662,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.121239096, y: -0.78804123, z: 0.16451329, w: -0.58072287}
+    m_Target: {x: 0.015025713, y: -0.98320264, z: 0.15494797, w: 0.09527892}
     speed: 2
-    m_Value: {x: -0.1212384, y: -0.7880367, z: 0.16451235, w: -0.58071953}
+    m_Value: {x: 0.015025713, y: -0.98320264, z: 0.15494797, w: 0.09527892}
   m_Size:
-    m_Target: 315.09943
+    m_Target: 88.25925
     speed: 2
-    m_Value: 315.09943
+    m_Value: 88.25925
   m_Ortho:
     m_Target: 0
     speed: 2
